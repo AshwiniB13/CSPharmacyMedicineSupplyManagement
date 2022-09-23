@@ -1,0 +1,15 @@
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\bin\Debug\net5.0\CSPharmacyMedicineSupplyManagement.deps.json
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\bin\Debug\net5.0\CSPharmacyMedicineSupplyManagement.runtimeconfig.json
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\bin\Debug\net5.0\CSPharmacyMedicineSupplyManagement.runtimeconfig.dev.json
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\bin\Debug\net5.0\CSPharmacyMedicineSupplyManagement.dll
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\bin\Debug\net5.0\ref\CSPharmacyMedicineSupplyManagement.dll
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\bin\Debug\net5.0\CSPharmacyMedicineSupplyManagement.pdb
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\obj\Debug\net5.0\CSPharmacyMedicineSupplyManagement.csproj.AssemblyReference.cache
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\obj\Debug\net5.0\CSPharmacyMedicineSupplyManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\obj\Debug\net5.0\CSPharmacyMedicineSupplyManagement.AssemblyInfoInputs.cache
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\obj\Debug\net5.0\CSPharmacyMedicineSupplyManagement.AssemblyInfo.cs
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\obj\Debug\net5.0\CSPharmacyMedicineSupplyManagement.csproj.CoreCompileInputs.cache
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\obj\Debug\net5.0\CSPharmacyMedicineSupplyManagement.dll
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\obj\Debug\net5.0\ref\CSPharmacyMedicineSupplyManagement.dll
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\obj\Debug\net5.0\CSPharmacyMedicineSupplyManagement.pdb
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\CSPharmacyMedicineSupplyManagement\obj\Debug\net5.0\CSPharmacyMedicineSupplyManagement.genruntimeconfig.cache
